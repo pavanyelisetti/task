@@ -1,0 +1,26 @@
+.col-md-2
+{
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	border: 1px solid black;
+		
+}
+.a
+{
+	text-decoration: none;
+	color: black;
+}
+.col-md-4
+{
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 50%;
+		
+}
